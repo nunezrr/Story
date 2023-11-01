@@ -5,3 +5,10 @@ Inicializar un repositorio Git
 
 Para mostrar el STAGING AREA
     git status
+
+Para rastrear los cambios en un archivo 
+    git add nombrearchivo
+
+Para guardar los cambios del archivo y agregando un msg    
+    git commit -m "
+
